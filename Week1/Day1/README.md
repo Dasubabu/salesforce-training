@@ -1,22 +1,34 @@
 # Day 1
 
-Topics covered in Day 1.
+## Topics Covered
 
+### 1. Salesforce Values: Quick Look (~5 min)
+- Understanding Salesforce values
+- Company vision and culture
 
-1. Salesforce Values: Quick Look (~5 min) 
-    � Just understand what Salesforce stands for 
-2. Salesforce Developer: Quick Look (~5 min) 
-   � Understand: 
-         What developers do 
-         Why this role is important 
-3. Salesforce CRM (~50 min) � MOST IMPORTANT 
-    � Focus on: 
-         CRM concept 
-         Business workflow 
-         Customers, sales, pipeline 
-4. Trailhead Playground Management (~1.5 hrs) 
-   � VERY IMPORTANT (Hands-on) 
-   You will learn: 
-         What is a Playground (your practice environment) 
-         How to create and manage it 
-         How to attempt challenges
+---
+
+### 2. Salesforce Developer: Quick Look (~5 min)
+Focused on:
+- What Salesforce developers do
+- Importance of Salesforce developers
+- Career opportunities
+
+---
+
+### 3. Salesforce CRM (~50 min)
+### Most Important Concepts
+- CRM concept
+- Business workflow
+- Customers and sales pipeline
+- Managing customer relationships
+
+---
+
+### 4. Trailhead Playground Management (~1.5 hrs)
+### Hands-on Practice
+Learned:
+- What is a Trailhead Playground
+- How to create a Playground
+- How to manage Playgrounds
+- How to attempt Trailhead challenges
